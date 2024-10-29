@@ -1,0 +1,18 @@
+.first-p-tag {
+    font-size: 20px;
+    color: blue;
+    background-color: blueviolet;
+}
+/* .sec-p-tag{
+    border: 3px dashed blue;
+    color: white;
+    background-color: black;
+} */
+#id1{
+    background-color: chocolate;
+    font-size: 30px;
+}
+#id2{
+    background-color: purple;
+    color: white;
+}
